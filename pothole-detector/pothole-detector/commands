@@ -1,0 +1,8 @@
+open vscode from anaconda
+open folder click
+choose Downloads ----> pothole_detector ------> pothole_detector
+vs code opens
+click terminal from top menu bar
+near + there is a down arrow click command prompt 
+conda activate detector
+python app.py
