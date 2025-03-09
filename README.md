@@ -1,2 +1,2 @@
 # pothole-detection
-pothole
+potholes
